@@ -53,4 +53,4 @@ Each menu card contains a `data-title` and `data-price`. Clicking a card creates
 ## Contributing and license
 See [CONTRIBUTING.md](CONTRIBUTING.md). Licensed under MIT, see [LICENSE](LICENSE).
 
-Last updated: 2026-11-19 02:17 UTC
+Last updated: 2026-11-19 10:53 UTC
